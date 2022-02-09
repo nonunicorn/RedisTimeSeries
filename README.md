@@ -222,7 +222,8 @@ For example, to run the tests strictly desigined for TS.ADD command, follow thes
 
 
 ## Documentation
-Read the docs at http://redistimeseries.io
+- Read the docs at http://redistimeseries.io
+- [Redis Timeseries code examples at onelinerhub.com](https://onelinerhub.com/redis-timeseries)
 
 ## Mailing List / Forum
 Got questions? Feel free to ask at the [RedisTimeSeries forum](https://forum.redis.com/c/modules/redistimeseries).
